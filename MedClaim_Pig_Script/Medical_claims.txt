@@ -1,0 +1,7 @@
+Amy,HR,8000
+Jack,HR,7500
+Joe,Finance,9000
+Daniel,Admin,4750
+Tim,Technical Staff,4750
+Tim,Technical Staff,3500
+Tim,Technical Staff,2750
