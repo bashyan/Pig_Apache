@@ -1,0 +1,4 @@
+Citi Bank,95.00
+HSBC Bank,95.00
+Standard Chartered Bank,92.00
+ABC Bank,85.00

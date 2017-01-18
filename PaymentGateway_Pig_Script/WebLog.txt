@@ -1,0 +1,6 @@
+John,Citi Bank,19.00
+John,HSBC Bank,19.05
+John,Standard Chartered Bank,17.00
+John,ABC Bank,17.05
+Rita,Standard Chartered Bank,11.00
+Rita,ABC Bank,11.05
